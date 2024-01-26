@@ -9,7 +9,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="siteUrl">{{ siteAnthor }}</a>
+          <a href="xuewei.world">薛伟同学</a>
         </span>
         <!-- 站点备案 -->
         <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
