@@ -3,5 +3,20 @@
     "icon": "Blog",
     "name": "CSDN",
     "link": "https://blog.csdn.net/weixin_53287520"
+  },
+  {
+    "icon": "Video",
+    "name": "哔哩哔哩",
+    "link": "https://space.bilibili.com/301320288"
+  },
+  {
+    "icon": "Github",
+    "name": "Github",
+    "link": "https://github.com/373675032"
+  },
+  {
+    "icon": "AlbumOutlined",
+    "name": "知识星球",
+    "link": "https://public.zsxq.com/groups/48884122418458.html"
   }
 ]
