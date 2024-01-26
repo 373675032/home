@@ -10,16 +10,6 @@
         @click="store.boxOpenState = false"
       />
     </transition>
-    <transition name="el-fade-in-linear">
-      <setting-two
-        class="setting"
-        theme="filled"
-        size="28"
-        fill="#ffffff60"
-        v-show="closeShow"
-        @click="store.setOpenState = true"
-      />
-    </transition>
     <div class="content">
       <!-- 可在此处自定义任意内容 -->
       <TimeCapsule />
