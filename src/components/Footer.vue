@@ -9,7 +9,7 @@
             -
           </span>
           {{ fullYear }}
-          <a href="xuewei.world">薛伟同学</a>
+          <a href="https://blog.csdn.net/weixin_53287520">薛伟同学</a>
         </span>
         <!-- 站点备案 -->
         <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
