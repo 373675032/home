@@ -70,6 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Video,
+  Github,
+  AlbumOutlined
 };
 
 // 链接跳转
