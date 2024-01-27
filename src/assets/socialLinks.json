@@ -22,5 +22,11 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:isxuewei@qq.com"
+  },
+  {
+    "name": "微信公众号",
+    "icon": "/images/icon/wechat.png",
+    "tip": "微信公众号【薛伟同学】",
+    "url": "#"
   }
 ]
